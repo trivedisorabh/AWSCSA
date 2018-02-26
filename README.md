@@ -1,6 +1,8 @@
 # AWSCSA
 AWS CSA
 
+https://github.com/trivedisorabh/aws-training
+
 # AWS Training
 <a id="top" />
 
